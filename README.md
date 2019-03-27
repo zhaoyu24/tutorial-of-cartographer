@@ -14,4 +14,5 @@ cartographer的安装完全可以参考谷歌官方的方法https://google-carto
     local-name: ceres-solver
     uri: https://github.com/ceres-solver/ceres-solver.git
     version: 1.13.0
+    
 更改的内容就是ceres-solver的下载地址（因为原网址不能访问），其他部分都不需要修改。
